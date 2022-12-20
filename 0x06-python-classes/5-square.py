@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 # 5-square.py by Lukman
 """A module that defines a square """
